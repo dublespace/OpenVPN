@@ -8,7 +8,7 @@ OpenVPN установка для Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS
 ### Установка
 Запустите скрипт и следуйте инструкциям помощника:
 
-`wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh`
+`wget https://github.com/dublespace/OpenVPN -O openvpn-install.sh && bash openvpn-install.sh`
 
 Как только он завершится, вы можете запустить его снова, чтобы добавить больше пользователей, удалить некоторых из них или даже полностью удалить OpenVPN.
 
